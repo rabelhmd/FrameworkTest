@@ -7,7 +7,7 @@
 
 import Foundation
 
-struct Validate {
+public struct Validate {
     
     func sayHello() {
         print("Hello World")
