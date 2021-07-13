@@ -9,7 +9,7 @@ import Foundation
 
 public struct Validate {
     
-    static func sayHello() {
+    public static func sayHello() {
         print("Hello World")
     }
 }
